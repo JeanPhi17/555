@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<!--
+	Arcana by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>THD Poitou Charente</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="is-preload">
+    <div id="page-wrapper">
+      <!-- Header -->
+      <div id="header">
+        <!-- Logo -->
+        <h2 style="text-align: center; height: 47px; margin-top: -24px;"><span style="color: #1992e0;"><b><a
+
+                href="index.html">PCH </a><a href="index.html">TRÈS HAUT DÉBIT</a></b></span>
+        </h2>
+        <h1 style="text-align: center; margin-top: -35px; height: 43px;"><span style="color: #081c66;"><b>.Dr
+              Poitou-Charentes Enedis</b></span></h1>
+        <!-- Nav -->
+        <nav id="nav">
+          <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="Tableau%20de%20suivie.html">Tableau</a></li>
+            <li><a href="Carte Vbeta.html">Carte</a></li>
+            <li class="current"><a span="" href="Contacte.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+      <!-- Main -->
+      <section class="wrapper style1">
+        <div class="container">
+          <div id="content">
+            <!-- Content -->
+            <article>
+              <header>
+                <h2>Contact</h2>
+                <p>Texte</p>
+              </header>
+              <title></title>
+              <!-- Do not change the code! --> <a id="foxyform_embed_link_194289"
+
+                href="http://fr.foxyform.com/">foxyform</a>
+              <script type="text/javascript">
+(function(d, t){
+   var g = d.createElement(t),
+       s = d.getElementsByTagName(t)[0];
+   g.src = "http://fr.foxyform.com/js.php?id=194289&sec_hash=ce64d2484c8&width=350px";
+   s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script><!-- Do not change the code! --><br>
+              <p></p>
+              <p><span class="image featured"><img src="images/banner.jpg" alt=""></span>
+              </p>
+              <p>Texte </p>
+              <h3>Titre </h3>
+              <p>Texte </p>
+              <p><span class="image featured"></span></p>
+            </article>
+          </div>
+        </div>
+      </section>
+      <!-- Footer -->
+      <div id="footer">
+        <div class="container">
+          <div class="row">
+            <section class="col-3 col-6-narrower col-12-mobilep">
+              <h3>Liens utiles </h3>
+              <ul class="links">
+                <li><a href="https://www.arcep.fr" target="_top">Arcep</a></li>
+                <li style="height: 19px;"><a href="https://www.enedis.fr/deployer-le-tres-haut-debit"
+
+                    target="_top">Enedis collectivité</a></li>
+              </ul>
+            </section>
+            <section class="col-3 col-6-narrower col-12-mobilep">
+              <h3>Notre Mission </h3>
+              <ul class="links">
+                <li><a href="https://www.enedis.fr" target="_top">Enedis</a></li>
+              </ul>
+            </section>
+          </div>
+        </div>
+        <ul class="icons">
+          <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+          <li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+          <li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+          <li><a href="#" class="icon brands fa-google-plus-g"><span class="label">Google+</span></a></li>
+        </ul>
+        <!-- Copyright -->
+        <div class="copyright">
+          <ul class="menu">
+            <li>© Untitled. All rights reserved</li>
+            <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+    
+  </body>
+</html>
